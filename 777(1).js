@@ -158,7 +158,7 @@ function getFaucetIndex(){
     return t
 }
 
-faucetOn['dailyfreebits'] = 60*random1; // FAUCETHUB
+
 faucetOn['jackpotfaucet'] = 30*random1; // FAUCETHUB
 faucetOn['btcsafari'] = 15*random1; // FAUCETHUB
 faucetOn['freebtccrane'] = 60*random1; // FAUCETHUB
